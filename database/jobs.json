@@ -1,0 +1,62 @@
+{
+  "mug6zt0010skk": {
+    "job_id": "mug6zt0010skk",
+    "release_id": 396168387,
+    "release_tag": "build-mug6zt0010skk",
+    "run_id": 36075317995,
+    "user_id": 6304585438,
+    "analyze_only": false,
+    "build_type": "release",
+    "status": "success",
+    "created_at": "2026-09-24T23:58:16.842Z",
+    "completed_at": "2026-09-25T00:08:24.302Z"
+  },
+  "mujkqusidf5hb": {
+    "job_id": "mujkqusidf5hb",
+    "release_id": 397572363,
+    "release_tag": "build-mujkqusidf5hb",
+    "run_id": 36307257541,
+    "user_id": 8170659322,
+    "analyze_only": false,
+    "build_type": "release",
+    "status": "failed",
+    "created_at": "2026-09-27T08:46:34.289Z",
+    "completed_at": "2026-09-27T08:50:32.069Z"
+  },
+  "mukxc2n5mhkmr": {
+    "job_id": "mukxc2n5mhkmr",
+    "release_id": 398027694,
+    "release_tag": "build-mukxc2n5mhkmr",
+    "run_id": 36391677929,
+    "user_id": 7848723736,
+    "analyze_only": false,
+    "build_type": "release",
+    "status": "success",
+    "created_at": "2026-09-28T07:26:44.550Z",
+    "completed_at": "2026-09-28T07:32:52.678Z"
+  },
+  "muu1s0kliev6x": {
+    "job_id": "muu1s0kliev6x",
+    "release_id": 403110295,
+    "release_tag": "build-muu1s0kliev6x",
+    "run_id": 37217665190,
+    "user_id": 8619225596,
+    "analyze_only": false,
+    "build_type": "release",
+    "status": "success",
+    "created_at": "2026-10-04T16:41:01.607Z",
+    "completed_at": "2026-10-04T16:47:41.959Z"
+  },
+  "muy116rd3pg26": {
+    "job_id": "muy116rd3pg26",
+    "release_id": 405689589,
+    "release_tag": "build-muy116rd3pg26",
+    "run_id": 37614624655,
+    "user_id": 1394027518,
+    "analyze_only": false,
+    "build_type": "release",
+    "status": "success",
+    "created_at": "2026-10-07T11:31:14.980Z",
+    "completed_at": "2026-10-07T11:37:06.204Z"
+  }
+}
